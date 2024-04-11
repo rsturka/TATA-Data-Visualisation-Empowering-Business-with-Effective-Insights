@@ -60,6 +60,8 @@ In this task, you will be required to read the questions carefully and understan
 
 You will be provided resources on how to select visuals based on the different scenarios, these are available in the resources section. These resources will help you get an idea on which visual to select for the given business scenario and will also guide you on how to choose the right chart or graph for your data. Each question will contain a unique scenario and you will be expected to answer the questions based on that scenario.
 
+[MCQ](https://github.com/rsturka/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/Task%202%20Choosing%20The%20Right%20Visuals/Task%202%20Choosing%20The%20Right%20Visuals.docx)
+
 ## **Task 3 - Creating Effective Visuals**
 Apply your under and create visuals based on business scenarios
 
