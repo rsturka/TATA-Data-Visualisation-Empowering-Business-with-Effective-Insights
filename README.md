@@ -1,7 +1,7 @@
+# TATA Data Visualisation: Empowering Business with Effective Insights
+
 ![TATA](https://logowik.com/content/uploads/images/tcs-tata-consultancy-services2792.logowik.com.webp)
 
-
-# TATA Data Visualisation Empowering Business with Effective Insights
 ![tataiq](https://user-images.githubusercontent.com/27211670/185741456-5b83cdef-ff9e-49e4-895f-2a543dad2dc7.jpg)
 
 The virtual experience programme is provided by Tata iQ or Tata Insights and Quants. I discover how passionate, multidisciplinary experts utilise data visualisation technologies like Tableau and Power BI to take on some of the most difficult business problems and uncover fascinating insights buried in the mountains of produced data. 
