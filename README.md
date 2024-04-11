@@ -1,5 +1,4 @@
 ![TATA](https://logowik.com/content/uploads/images/tcs-tata-consultancy-services2792.logowik.com.webp)
-![tata](https://user-images.githubusercontent.com/27211670/190601774-db1cbc4d-0daa-4853-a890-ebc6c15895ab.jpg)
 
 
 # TATA Data Visualisation Empowering Business with Effective Insights
