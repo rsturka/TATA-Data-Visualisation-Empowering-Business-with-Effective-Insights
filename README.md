@@ -43,6 +43,7 @@ You’ve been provided a dataset in the resources below to use as the basis for 
 Create a set of four questions that you anticipate each business leader will ask and want to know the answers to. Make sure you differentiate your questions, as both the CEO and CMO view business decisions through different lenses.
 
 Eight (8) questions in total (4 for the CEO and 4 for the CMO)
+[ANSWER](https://github.com/rsturka/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/Task%201%20Framing%20The%20Business%20Scenario/Task%201%20Framing%20The%20Business%20Scenario.docx)
 
 ## **Task 2 - Choosing the Right Visuals**
 Learn which visuals are most effective in a given scenario
