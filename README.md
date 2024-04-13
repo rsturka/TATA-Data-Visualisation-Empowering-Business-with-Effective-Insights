@@ -110,6 +110,8 @@ The CEO is looking to gain insights on the demand for their products. He wants t
 
 [Power BI](https://github.com/rsturka/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/Task%203%20-%20Creating%20Effective%20Visuals/Task%203%20-%20Creating%20Effective%20Visuals.pbix)
 
+![PowerBI Dashboard](https://github.com/rsturka/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/Images/Dashboard.png)
+
 [Tableau](https://github.com/rsturka/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/Task%203%20-%20Creating%20Effective%20Visuals/Task%203%20-%20Creating%20Effective%20Visuals.twbx)
 
 ## **Task 4 - Communicating Insights and Analysis**
