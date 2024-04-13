@@ -17,6 +17,8 @@ The programme demonstrates the kind of issues dealt with by Tata Insights and Qu
 
 **♦ Communicating Insights and Analysis**
 
+![Certificate](https://github.com/rsturka/TATA-Data-Visualisation-Empowering-Business-with-Effective-Insights/blob/main/Images/Certificate.png)
+
 ## **Task 1 - Framing the Business Scenario**
 Learn how to anticipate the questions your business leaders will need answers to.
 
